@@ -1,8 +1,14 @@
-### Hi there 👋
+### Olá! 👋
 
-Here are some ideas to get you started:
+Saiba um pouquinho sobre mim:
 
 - 🔭 Atualmente trabalhando em https://github.com/MuriloADev/Obara_RPG
 - 🌱 Aprendendo C#
 - 📫 Entre em contato! pedroavieiramattos@gmail.com
 - ⚡ Fun fact: Não consigo parar de jogar Pokémon
+
+<div align="center">
+  <a href="https://github.com/PedroADev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroADev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroADev&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
