@@ -1,11 +1,9 @@
 ### Olá! 👋
 
-Saiba um pouquinho sobre mim:
+Seja bem-vindo
 
-- 🔭 Atualmente trabalhando em https://github.com/MuriloADev/Obara_RPG
-- 🌱 Aprendendo C#
+- 🌱 Unreal Engine & Unity
 - 📫 Entre em contato! pedroavieiramattos@gmail.com
-- ⚡ Fun fact: Não consigo parar de jogar Pokémon
 
 <div align="center">
   <a href="https://github.com/PedroADev">
