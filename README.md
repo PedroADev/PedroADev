@@ -2,5 +2,5 @@
 
 Seja bem-vindo
 
-- 🌱 Unreal Engine & Unity
+- 🌱 QA Tester e Developer!
 - 📫 Entre em contato! pedroavieiramattos@gmail.com
